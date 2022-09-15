@@ -10,7 +10,7 @@ public class HelloWorld {
 		char gender=sc.next().charAt(0);
 		
 		
-
+System.out.println(sc);
 	}
 
 }
