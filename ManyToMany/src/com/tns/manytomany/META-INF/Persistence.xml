@@ -9,7 +9,7 @@ version="2.0">
 <provider>org.hibernate.ejb.HibernatePersistence</provider>
 <properties>
 <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-<property name="javax.persistence.jdbc.url" value="jdbc:mysql://127.0.0.1:3306/amrutha"/>
+<property name="javax.persistence.jdbc.url" value="jdbc:mysql://127.0.0.1:3306/tree"/>
 <property name="javax.persistence.jdbc.user" value="root"/>
 <property name="javax.persistence.jdbc.password" value="AMMUgowda14@"/>
 <property name="hibernate.hbm2ddl.auto" value="update"/>
